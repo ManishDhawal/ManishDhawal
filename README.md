@@ -1,12 +1,9 @@
 ![I am budding Data Scientist](https://github.com/ManishDhawal/ManishDhawal/blob/main/giphy%20(2).gif)
 
-### Hi there 👋, my name is Manish
-#### I am budding Data Scientist
+# Manish Dhawal
+I am Manish from India and I am a budding Data Scientist specialized in Machine Learning and Data Visualization. I really enjoylearning different languages, frameworks and working around different datasets and new techniques for refining existing models for better predictions.
 
 
-I am specialized in Machine Learning and Data Visualization. I really enjoy working around different datasets and new techniques for refining existing models for better predictions.
-
-Skills: Python / NumPy / MySQL / R / ML
 
 
 
