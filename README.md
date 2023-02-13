@@ -7,6 +7,7 @@ I am Manish from India and I am a budding Data Scientist specialized in Machine 
 * ⚛️ Python
 * 💻 NumPy
 * 📈 Data Visualization
+* 🤖 Machine Learning
 * :basecamp: SQL
 * :atom: Node.js
 * 🖥️ HTML | CSS | JS 
