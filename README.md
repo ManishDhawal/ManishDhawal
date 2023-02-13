@@ -13,4 +13,4 @@ I am Manish from India and I am a budding Data Scientist specialized in Machine 
 * 🖥️ HTML | CSS | JS 
 
 ## MOTTO
-- When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
